@@ -1,0 +1,17 @@
+<body>
+<div class=form>
+    <h1><p>Авторизация</p></h1>
+    <p> Логин:</p>
+    <input class="ty">
+    <p> Пароль: </p>
+    <input class="ty">
+    <button class="tr"
+    <button>Вход</button>
+
+
+.form { text-align:center;
+        font-size:40px}
+.ty {font-size:40px;
+     color: #008000;}
+button {font-size: 40px;}
+.tr {text-align: center;}
