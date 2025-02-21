@@ -1,1 +1,35 @@
-
+h1 { font-size: 150px;
+     text-align: center}
+.uy {width: 500;
+     align-self: center}
+figure {text-align: center;
+        font-size: 50;
+        font-family: 'Arial';
+}
+div {
+  width: 700px;
+  height: 450px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+  align-self: center
+}
+!DOCTYPE html>
+<html>
+<head>
+ <h1 class=tu>
+   Новости
+  </h1>
+  <figure>
+    <ul>
+      <div>
+         <ol>
+  <img class=uy src="https://opis-cdn.tinkoffjournal.ru/mercury/01-dog-with-an-apple.jpg
+" alt="пес ест яблоко">
+    <figcaption>Пес ест яблоко</figcaption>
+       </ol> 
+        </div>
+      <ol>
+        <img class=uy src=https://i.pinimg.com/736x/b3/b0/24/b3b024563c4bee5b9621d4aa7b4e4376.jpg>
+        <figcaption>uguhugu</figcaption>
+      </ol>
+    </figure>
