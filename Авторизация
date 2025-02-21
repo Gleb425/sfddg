@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <body class=po>
+<div class=form>
+    <h1><p>Авторизация</p></h1>
+    <p> Логин:</p>
+    <input class="ty" placeholder=Введите >
+    <p> Пароль: </p>
+    <input class="ty" placeholder=Введите >
+    <button class="tr"
+    <button>Вход</button>
+    </body>
+    
+</html>
+
+
+
+
+
+.form { text-align:center;
+        font-size:40px}
+.ty {font-size:40px;
+     color: #008000;}
+button {font-size: 40px;
+  color: #008000}
+body {background-image: url("/images/a9ebc791-6d06-5220-b3d4-50f1bee3b183jpg");
+}
+p {color: 008000}
