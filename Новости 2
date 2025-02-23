@@ -1,0 +1,74 @@
+  h1 { font-size: 150px;
+     text-align: center}
+.uy {width: 500;
+     align-self: center}
+figure {text-align: center;
+        font-size: 50;
+        font-family: 'Arial';
+        border-spacing: 10px;
+}
+div {
+  width: 700px;
+  height: 450px;
+  border: 1px solid black;
+  box-shadow: 2px 2px 4px rgba(50, 50, 50, 60.20);
+  align-self: center
+	 
+}
+dd {font-size:20}
+.йк{ align-self: center}
+figcaption{text-align: center}
+
+
+
+
+
+
+
+
+<html>
+<head>
+ <h1 class=tu>
+   Новости
+  </h1>
+  <figure class=tb>
+    <ul>
+      <div>
+         <ol>
+  <img class=uy src="https://opis-cdn.tinkoffjournal.ru/mercury/01-dog-with-an-apple.jpg
+
+" alt="пес ест яблоко">
+    <figcaption>Пес ест яблоко</figcaption>
+       </ol> 
+      </div>
+      <div>
+          <ol>
+        <img class=uy src=https://otvet.imgsmail.ru/download/301935718_bf7f3be2fef36e1a9c3371dfa381ce91_800.jpg
+        <figcaption></figcaption>
+      </ol>
+      </div>
+      <div>
+        
+       <ol>
+         <img class=uy src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO_5U6mfj8Gk1nBm9OARr_1mwQ3B-n7BXLA&s>
+         <figcaptions>
+           <dt>
+             Сегодня Уничтожено
+             <dd> 10000 вражеских танков</dd>
+             <dd>10 Украин</dd>
+             <dd> 2 США</dd>
+              <dd>Взято в плен 5 Зеленских</dd>
+           </dt>
+         </figcaptions>
+  </ol>
+      <div>
+      <ol>
+        <img src=https://upload.wikimedia.org/wikipedia/ru/3/39/FamilyGuy_Peter_Griffin_72.png>
+        <figcaption>Вова</figcaption>
+        
+      </ol>
+      </div>
+      
+           
+  </div>
+    </figure>
