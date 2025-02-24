@@ -1,0 +1,75 @@
+
+	   h1 { font-size: 150px;
+     text-align: center}
+.uy {width: 500;
+     align-self: center}
+figure {text-align: center;
+        font-size: 50;
+        font-family: 'Arial';
+        border-spacing: 10px;
+
+}
+div {
+  width: 700px;
+  height: 450px;
+  border: 1px solid black;
+  box-shadow: 10px 5px 5px grey;
+  align-self: center
+  gap: 30px px;
+  margin-top:50px;
+  border-radius: 30px
+   
+}
+dd {font-size:20}
+
+.йк{ align-self: center}
+
+figcaption{text-align: center;}
+
+head { background-image: url("https://siriusmag.ru/site/glide/?fit=crop-center&w=1050&h=500&source_hash=2b70751ac6342020af9a9d019151a747&path=%2Ffiles%2Fmodels%2Fnews%2F2199%2F2199_main_image.jpg&s=08c9431e194502875c60be664463a2b2")
+
+
+
+<html>
+<head>
+ <h1 class=tu>
+   Новости
+  </h1>
+  <figure class=tb>
+    <ul>
+      <div>
+         <ol>
+  <img class=uy src="https://opis-cdn.tinkoffjournal.ru/mercury/01-dog-with-an-apple.jpg
+
+" alt="пес ест яблоко">
+    <figcaption>Пес ест яблоко</figcaption>
+       </ol> 
+      </div>
+      <div>
+          <ol>
+        <img class=uy src=https://otvet.imgsmail.ru/download/301935718_bf7f3be2fef36e1a9c3371dfa381ce91_800.jpg
+        <figcaption>Чипсики</figcaption>
+      </ol>
+      </div>
+      <div>
+        
+       <ol>
+         <img class=uy src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEO_5U6mfj8Gk1nBm9OARr_1mwQ3B-n7BXLA&s>
+         <figcaptions>
+           <dt>
+             Сегодня Уничтожено
+             <dd> 10000 вражеских танков</dd>
+             <dd>10 Украин</dd>
+             <dd> 2 США</dd>
+              <dd>Взято в плен 5 Зеленских</dd>
+           </dt>
+         </figcaptions>
+  </ol>
+      <div>
+      <ol>
+        <img src=https://upload.wikimedia.org/wikipedia/ru/3/39/FamilyGuy_Peter_Griffin_72.png>
+        <figcaption>Вова</figcaption> 
+      </ol>
+      </div>
+    </figure>
+  </head>
