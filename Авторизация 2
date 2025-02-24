@@ -1,0 +1,25 @@
+.form { text-align:center;
+        font-size:40px}
+.ty {font-size:40px;
+     color: #008000;}
+button {font-size: 40px;
+  color: 0080}
+body {background-image: url("https://img.gazeta.ru/files3/681/16330681/shutterstock_736023025-pic4_zoom-1500x1500-99622.jpg");
+}
+p {color: 0080}
+
+
+
+<html>
+  <body class=po>
+<div class=form>
+    <h1><p>Авторизация</p></h1>
+    <p> Логин:</p>
+    <input class="ty" placeholder=Введите >
+    <p> Пароль: </p>
+    <input class="ty" placeholder=Введите >
+    <button class="tr"
+    <button>Вход</button>
+    </body>
+    
+</html>
