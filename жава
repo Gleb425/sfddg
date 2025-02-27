@@ -1,0 +1,10 @@
+document.getElementById('login-btn').addEventListener('click', function())
+   const inputlogin = document.getElementById('login').value;
+   const inputPassword = document.getElementById('password').value;
+   const messageDiv = document.getElementById('message');
+
+   if(inputLogin === Login && inputPassword === password)
+    window.open('../feed/feed.html')
+   else{
+     messageDiv.text
+   }
